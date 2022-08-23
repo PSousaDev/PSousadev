@@ -1,5 +1,3 @@
-
-
 ### **PT-BR**
 ### **olá!, eu sou PSousaDev,Estudante assiduo do mundo do desenvolvimento**👋
 
@@ -8,9 +6,9 @@
 ![pedrosi stats](https://github-readme-stats.vercel.app/api?username=PedroSousa&show_icons=true&theme=dracula)
 
 
-## Tecnologias Que estudo:
+# **Linguagens que Trabalho**:
 <div style="display:inline-block"><BR\>
- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">   
 </div>
 <div style="display:inline-block"><BR\>
  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -24,6 +22,30 @@
 <div style="display:inline-block"><BR\>
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
+<div style="display:inline-block"><BR\>
+ <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+</div>
+<div style="display:inline-block"><BR\>
+ <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
+</div>
 
+## **Frameworks que Utilizo**:
 
-
+<div style="display:inline-block"><BR\>
+ <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+</div>
+<div style="display:inline-block"><BR\>
+ <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+</div>
+<div style="display:inline-block"><BR\>
+ <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+</div>
+<div style="display:inline-block"><BR\>
+ <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+</div>
+<div style="display:inline-block"><BR\>
+ <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+</div>
+<div style="display:inline-block"><BR\>
+ <img src="https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white">
+</div>
