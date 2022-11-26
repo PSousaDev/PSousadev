@@ -1,19 +1,22 @@
 ## **PT-BR**
-# ***olá!, eu sou Pedro*** 👋
+
+<h1 style="border-bottom: none"> Olá!, eu sou <strong>Pedro</strong> 👋</h1>
 <div align="center">
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_pedro.si/)
+
 </div>
 <div align="center">
 
 [![disc](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrosi/)
+
 </div>
 <div align="center">
 
 ![pedrosi stats](https://github-readme-stats.vercel.app/api?username=PedroSousa&show_icons=true&theme=dracula)
-</div>
 
-## **Linguagens que Trabalho**
+</div>
+<h2 style="border-bottom: none"><strong>Linguagens que Trabalho</strong></h2></br>
 <div style="display:inline-block">
 <img align="center" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" width="60" height="30">
 <img align="center" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"width="110" height="30" >
@@ -24,8 +27,10 @@ width="110" height="30">
 <img align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"
 width="110" height="30">
 </div>
-## **Frameworks que Utilizo**
+
+<h2 style="border-bottom: none"><strong>Frameworks que Utilizo</strong></h2>
 <div style="display:inline-block">
+</br>
 <img align="center" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
 <img align="center" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 <img align="center" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
