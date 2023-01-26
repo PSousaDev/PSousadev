@@ -11,7 +11,7 @@
 <div align="center" >
 </br></br>
 
-![pedrosi stats](https://github-readme-stats.vercel.app/api?username=PedroSousa&show_icons=true&theme=transparent)
+![pedrosi stats](https://github-readme-stats.vercel.app/api?username=PedroSousa&show_icons=true&theme=transparent)</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PSousaDev )](https://github.com/anuraghazra/github-readme-stats)
 </br></br>
 <h2 align="center"><strong style="border-bottom: none">Linguagens na qual Trabalho</strong></h2></br>
