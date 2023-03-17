@@ -1,5 +1,4 @@
 ## **PT-BR**
-## **EN**
 <h1 style="border-bottom: none" align="center"> Olá!, eu sou <strong style="border-bottom: none">Pedro</strong> <img align="center" src="./octocat-1674769736411.png" width="220" ></h1>
 <div   align="center">
 
