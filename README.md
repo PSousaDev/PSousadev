@@ -1,64 +1,57 @@
-## **PT-BR**
-<h1 style="border-bottom: none" align="center"> Olá!, eu sou <strong style="border-bottom: none">Pedro</strong> <img align="center" src="./octocat-1674769736411.png" width="220" ></h1>
-<div   align="center">
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/pedrosi/) 
+<img src="img/hiThere.png">
 
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_pedro.si/)
 
+
+</a>
 </div>
 <div align="center" >
 </br></br>
+<h1 style="border-bottom: none" align="center"> Olá!, eu sou <strong style="border-bottom: none">Pedro</strong></h1>
+<div   align="center">
 
-![pedrosi stats](https://github-readme-stats.vercel.app/api?username=PedroSousa&show_icons=true&theme=transparent)</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PSousaDev )](https://github.com/anuraghazra/github-readme-stats)
+
+
+## **EN**
+### I am a Fullstack developer specializing in TypeScript, Nest, React, Node, and Next technologies. With a passion for building scalable and efficient web applications, I am constantly learning and honing my skills to provide high-quality solutions for my clients.
+
+## **PT-BR**
+### Sou um desenvolvedor Fullstack especializado em tecnologias TypeScript, Nest, React, Node e Next. Com uma paixão pela construção de aplicativos web escaláveis e eficientes, eu estou constantemente aprendendo e aprimorando minhas habilidades para fornecer soluções de alta qualidade para meus clientes.
+<img src="img/techStack.png">
+
+<p align="center">
+  <a href="#">
+   <img src="https://skillicons.dev/icons?i=javascript,typescript,python,nestjs,md,express,nodejs,lua,react,nextjs&perline=5" />
 </br></br>
-<h2 align="center"><strong style="border-bottom: none">Linguagens na qual Trabalho</strong></h2></br>
-<div style="display:inline-block">
-<img align="center" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" width="60" height="">
-<img align="center" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"width="110" height="" >
-<img align="center" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"
-width="80">
-<img align="center" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"
-width="110" height="">
-<img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"
-width="110" height="">
-<img align="center" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"
-width="70" height="">
+  </a>
+</p>
+
+## **EN**
+### In addition to infrastructure and development, I have experience e curius in implementing continuous integration and continuous deployment (CI/CD) pipelines using Jenkins and Docker. I believe that automation is key to achieving reliable and efficient software delivery, and I am constantly learning and improving my skills in this area.
+ 
+## **PT-BR**
+### Além de infraestrutura e desenvolvimento, tenho experiência e curiosidade na implementação de pipelines de integração contínua e implantação contínua (CI/CD) usando Jenkins e Docker. Acredito que a automação é a chave para alcançar a entrega de software confiável e eficiente, e estou constantemente aprendendo e aprimorando minhas habilidades nessa área.
+
+<img src="img/devOps.png">
+<p align="center">
+  <a href="#">
+   <img src="https://skillicons.dev/icons?i=docker,aws,kubernetes,git,jenkins,linux,github&perline=7" />
 </br></br>
+  </a>
+</p>
 </div>
+</p>
 
-<h2 align="center"><strong style="border-bottom: none">Frameworks que Utilizo</strong></h2>
-<div style="display:inline-block" align="center">
-</br>
-<img align="center" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
-<img align="center" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-<img align="center" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-<img align="center" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
-<img align="center" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
-<img align="center" src="https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=NestJS&logoColor=white">
-<img align="center" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-<img align="center" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
-<img align="center" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-<img align="center" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
-</br>
-</br>
-</div>
-
-<h2 align="center"><strong style="border-bottom: none">Banco de dados que que Utilizo</strong></h2>
-</br>
-<div align="center" margin> 
-<img align="center" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white"
-width="80" height="">
-<img align="center" src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white"
-width="90" height="">
-<img align="center" src="https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=MariaDB&logoColor=white"
-width="90" height="">
-<img align="center" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white"
-width="90" height="">
-</div>
-
-
-
-</div>
-
+## **EN**
+### Thank you for visiting my GitHub profile! If you are interested in collaborating on a project or have any questions, please don't hesitate to reach out.
+ 
+## **PT-BR**
+### Obrigado por visitar meu perfil do GitHub! Se você estiver interessado em colaborar em um projeto ou tiver alguma dúvida, não hesite em entrar em contato.
+<br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/pedrosi/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+    <a href="https://github.com/PSousaDev">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
